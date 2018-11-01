@@ -1,3 +1,3 @@
 class Artish
-  def 
+  def initi
 end
