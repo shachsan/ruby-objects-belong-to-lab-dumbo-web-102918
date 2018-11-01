@@ -1,3 +1,3 @@
 class Artish
-  def initi
+  def initialize (name)
 end
