@@ -1,2 +1,3 @@
 class Artish
+  def 
 end
