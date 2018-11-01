@@ -1,3 +1,3 @@
 class Post
-  attr
+  attr_accessor : 
 end
